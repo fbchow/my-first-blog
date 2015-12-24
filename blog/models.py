@@ -20,4 +20,3 @@ def publish(self):
 def __str__(self):
 	return self.title
 
-	
